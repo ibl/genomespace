@@ -25,7 +25,7 @@ davidBrowser = new Browser({
                     uri:                  'http://beta.rest.ensembl.org',
                     tier_type:            'ensembl',
                     species:              'human',
-                    type:                 ['transcript', 'exon', 'cds']
+                    type:                 ['transcript', 'exon', 'cds']}
                  ],
 
     searchEndpoint: new DASSource('http://www.derkholm.net:8080/das/hsa_54_36p/'),
