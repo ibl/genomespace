@@ -15,7 +15,7 @@ Sandbox to play with web components for computatiional genomics applications, st
 * [Jonas](http://ibl.github.io/genomespace/jonas.html).
 * [David](http://ibl.github.io/genomespace/home.html).
 * [Bade](http://ibl.github.io/genomespace/bade.html).
-* [Alex](http://agrueneberg.bitbucket.org/biodalliance/).
+* [Alex](http://ibl.github.io/genomespace/alex.html).
 * [Sean]().
 *
 * (please add your own).
