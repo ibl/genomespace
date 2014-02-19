@@ -25,7 +25,11 @@ davidBrowser = new Browser({
                     uri:                  'http://beta.rest.ensembl.org',
                     tier_type:            'ensembl',
                     species:              'human',
-                    type:                 ['transcript', 'exon', 'cds']}
+                    type:                 ['transcript', 'exon', 'cds']},
+                  {name:    "VCF File Wooo",
+                   uri: "https://s3.amazonaws.com/robbinsd-dropbox/main.vcf.vcf.tar.gz",
+                   tier_type: "tabix",
+                   payload: "vcf"}
                  ],
 
     searchEndpoint: new DASSource('http://www.derkholm.net:8080/das/hsa_54_36p/'),
