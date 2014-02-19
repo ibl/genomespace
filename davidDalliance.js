@@ -20,7 +20,13 @@ davidBrowser = new Browser({
                   {name:                 'MeDIP raw',
                    uri:                  'http://www.derkholm.net:8080/das/medipseq_reads'},
                   {name:                 'MeDIP-seq',
-                   uri:                  'http://www.ebi.ac.uk/das-srv/genomicdas/das/batman_seq_SP/'}],
+                   uri:                  'http://www.ebi.ac.uk/das-srv/genomicdas/das/batman_seq_SP/'},
+                  {name:                 'e! transcripts',
+                    uri:                  'http://beta.rest.ensembl.org',
+                    tier_type:            'ensembl',
+                    species:              'human',
+                    type:                 ['transcript', 'exon', 'cds']}
+                 ],
 
     searchEndpoint: new DASSource('http://www.derkholm.net:8080/das/hsa_54_36p/'),
     browserLinks: {
