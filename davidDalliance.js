@@ -27,7 +27,7 @@ davidBrowser = new Browser({
                     species:              'human',
                     type:                 ['transcript', 'exon', 'cds']},
                   {name:    "VCF File Wooo",
-                   uri: "https://s3.amazonaws.com/robbinsd-dropbox/main.vcf.vcf.tar.gz",
+                   uri: "https://s3.amazonaws.com/robbinsd-dropbox/main.vcf.vcf.gz",
                    tier_type: "tabix",
                    payload: "vcf"}
                  ],
