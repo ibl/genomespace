@@ -1,4 +1,4 @@
-new Browser({
+davidBrowser = new Browser({
     chr:          '22',
     viewStart:    30000000,
     viewEnd:      30030000,
