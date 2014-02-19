@@ -13,7 +13,7 @@ Sandbox to play with web components for computatiional genomics applications, st
 
 ## Your corner of the sandbox
 * [Jonas](http://ibl.github.io/genomespace/jonas.html).
-* [David]().
+* [David](http://ibl.github.io/genomespace/home.html).
 * [Bade]().
 * [Alex]().
 * [Sean]().
